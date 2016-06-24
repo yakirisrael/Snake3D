@@ -14,14 +14,14 @@ Platform assembly: D:\Projects\UnityProject\Snake3D\Bin\Snake3D_Data\Managed\Uni
 Loading D:\Projects\UnityProject\Snake3D\Bin\Snake3D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\Projects\UnityProject\Snake3D\Bin\Snake3D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\Projects\UnityProject\Snake3D\Bin\Snake3D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.034 seconds
+- Completed reload, in  0.031 seconds
 Platform assembly: D:\Projects\UnityProject\Snake3D\Bin\Snake3D_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Projects\UnityProject\Snake3D\Bin\Snake3D_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1440x900 60Hz; virtual: 2720x1024 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.507160 ms
+UnloadTime: 0.450555 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1f08 -> priority: 1 
-  Thread -> id: 1514 -> priority: 1 
+  Thread -> id: 760 -> priority: 1 
+  Thread -> id: 1d84 -> priority: 1 
